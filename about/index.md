@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a I am a doctoral candidate in the Department of Anatomy (<a href="https://gemmell-lab.otago.ac.nz/">Gemmell lab</a>) at the University of Otago, New Zealand. I study the genetic and epigenetic mechanisms of host manipulation by parasites.</center>
 
 ## Features
 * Minimal, you can focus on your content
