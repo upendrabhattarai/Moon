@@ -4,9 +4,9 @@ bio:                "Upendra's personal website."
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/me.jpg'
+logo:               'assets/img/me_cartoon.jpg'
 background:         'assets/img/wall.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://upendrabhattarai.github.io/
 
